@@ -12,7 +12,8 @@ body {
   height: 70px;
   padding: 20px 90px;
   padding-bottom: 30px;
-  position: sticky;
+  position: fixed;
+  width: 100%;
   top: 0;
   z-index: 1000;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -778,9 +779,10 @@ p {
   z-index: 9999;
 }
 
-.popular h1 {
+/* .popular h1 {
   text-align: center;
-}
+} */
+
 .popup-content {
   background: #fff;
   padding: 20px;

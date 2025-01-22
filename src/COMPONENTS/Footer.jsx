@@ -18,23 +18,21 @@ const Footer = () => {
           <ul className="footercompany">
             <h3>Company</h3>
             <li>About Us</li>
-            <li>Careers</li>
-            <li>Blog</li>
-            <li>Pricing</li>
+            <li>Courses</li>
+            <li>Home</li>
           </ul>
           <ul className="footerclass">
             <h3>Class</h3>
             <li>ui/ux</li>
             <li>Development</li>
-            <li>Logo Design</li>
+            <li>Graphics</li>
             <li>Branding</li>
           </ul>
           <ul className="footercontact">
             <h3>Contact</h3>
-            <li>Proposal Template</li>
-            <li>Invoice Template</li>
-            <li>Tutoaria</li>
-            <li>How to write a contact</li>
+            <li>Phone: 0763429643</li>
+            <li>Email: sales@group1.com</li>
+            <li>Location: Mbeya</li>
           </ul>
         </div>
         <div className="footerdetails">
