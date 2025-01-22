@@ -5,10 +5,11 @@ const Header = () => {
   return (
     <div className="mainheader">
       <div className="leftDiv">
-        <h2>Easy Access To Online Learning Anywhere</h2>
+        <h2> Better Place to find education for Learning Anywhere</h2>
         <p>
-          Online learning is convinient and flexible. it allows you to <br />
-          study from Anywhere through this platform
+          We provide Online learning that is convinient and flexible. it allows
+          you to <br />
+          study from Anywhere through platforms and at our Campus.
         </p>
         <button>Get Started</button>
         <div className="numbers">
