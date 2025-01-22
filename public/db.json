@@ -4,16 +4,16 @@
     "courseName": "Web Development",
     "instructorName": "Floriana",
     "instructorImage": "images/lecture3.jpg",
-    "courseImage": "images/corse.jpg",
+    "courseImage": "images/theweb.jpg",
     "members": "200k"
   },
 
   {
     "id": 2,
     "courseName": "App Development",
-    "instructorName": "Floriana",
+    "instructorName": "Azomingo",
     "instructorImage": "images/lecture3.jpg",
-    "courseImage": "images/corse.jpg",
+    "courseImage": "images/appdev.jpg",
     "members": "700k"
   },
 
@@ -22,7 +22,7 @@
     "courseName": "Ethical Hacking",
     "instructorName": "David Akyoo",
     "instructorImage": "images/lecture3.jpg",
-    "courseImage": "images/corse.jpg",
+    "courseImage": "images/ethical.jpg",
     "members": "400"
   }
 ]

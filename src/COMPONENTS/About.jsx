@@ -5,48 +5,36 @@ const About = () => {
   return (
     <div className="about">
       <div className="about-header">
-        <h1>We added superfoods to boost benefits</h1>
+        <h1>Welcome to Our University</h1>
         <p>
-          We've added superfoods to boost benefits in your overall health,
-          mental well-being, skin, and hair. Plus, they taste naturally
-          delicious.
+          Hello! Welcome Group 01 Universty <strong>(G1UNI)</strong> Discover
+          what drives us forward and defines our purpose. Explore our vision,
+          mission, and core values that guide our institution.
         </p>
       </div>
       <div className="about-cards">
         <div className="about-card">
-          <div className="about-icon">
-            {/* Replace this with an actual icon */}
-            <img
-              src="https://via.placeholder.com/50"
-              alt="Matcha Green Tea Icon"
-            />
-          </div>
-          <h3>Matcha Green Tea</h3>
+          <div className="about-icon">&#128065;</div>
+          <h3>Our Vision</h3>
           <p>
-            A potent green tea made from the entire green tea leaf for a
-            plethora of antioxidant benefits.
+            To be a leading institution that empowers students to shape the
+            future with innovation, integrity, and knowledge.
           </p>
         </div>
         <div className="about-card">
-          <div className="about-icon">
-            {/* Replace this with an actual icon */}
-            <img
-              src="https://via.placeholder.com/50"
-              alt="Cacao Superfood Icon"
-            />
-          </div>
-          <h3>Cacao Superfood Powder</h3>
-          <p>Cacao is a powerhouse of anti-aging and antioxidant properties.</p>
+          <div className="about-icon">&#128640;</div>
+          <h3>Our Mission</h3>
+          <p>
+            To provide high-quality education, foster research, and encourage
+            community engagement that creates a positive impact on society.
+          </p>
         </div>
         <div className="about-card">
-          <div className="about-icon">
-            {/* Replace this with an actual icon */}
-            <img src="https://via.placeholder.com/50" alt="Horsetail Icon" />
-          </div>
-          <h3>Horsetail a powerful herb</h3>
+          <div className="about-icon">&#9878;</div>
+          <h3>Our Core Values</h3>
           <p>
-            Has silica and antioxidant compounds to aid with the synthesis of
-            collagen production.
+            Excellence, inclusivity, innovation, integrity, and respect for
+            diversity are the pillars that define our university culture.
           </p>
         </div>
       </div>

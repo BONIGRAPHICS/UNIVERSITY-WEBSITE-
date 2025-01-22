@@ -15,40 +15,41 @@ const Features = () => {
             <div class="icon" style={{ background: "#FF76C1" }}>
               &#10003;
             </div>
-            <h3>Course Accessibility</h3>
+            <h3>CCampus Life</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida
-              sit ut nisl.
+              A vibrant student life with clubs, organizations, sports, events,
+              and recreational activities to foster a sense of community.
             </p>
           </div>
           <div className="feature-item">
             <div class="icon" style={{ background: "#58D68D" }}>
               &#10003;
             </div>
-            <h3>Schedule Learning</h3>
+            <h3>Technology Integration</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida
-              sit ut nisl.
+              Access to the latest technological tools and online learning
+              platforms that support innovative and flexible learning
+              experiences.
             </p>
           </div>
           <div className="feature-item">
             <div className="icon" style={{ background: "#5DADE2" }}>
               &#10003;
             </div>
-            <h3>Expert Instructions</h3>
+            <h3>Research Opportunities</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida
-              sit ut nisl.
+              Access to cutting-edge research projects, labs, and resources,
+              allowing students and faculty to innovate and explore new ideas.
             </p>
           </div>
           <div className="feature-item">
             <div className="icon" style={{ background: "#AF7AC5" }}>
               &#10003;
             </div>
-            <h3>Scholarship</h3>
+            <h3>Student Support Services</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida
-              sit ut nisl.
+              Counseling, academic advising, tutoring, health services, and
+              disability support to ensure student well-being.
             </p>
           </div>
           <div className="feature-item">
@@ -65,7 +66,7 @@ const Features = () => {
             <div class="icon" style={{ background: "#58D68D" }}>
               &#10003;
             </div>
-            <h3>Schedule Learning</h3>
+            <h3>Global Perspective</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida
               sit ut nisl.
@@ -75,20 +76,11 @@ const Features = () => {
             <div className="icon" style={{ background: "#5DADE2" }}>
               &#10003;
             </div>
-            <h3>Expert Instructions</h3>
+            <h3>Career Services</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida
-              sit ut nisl.
-            </p>
-          </div>
-          <div className="feature-item">
-            <div className="icon" style={{ background: "#AF7AC5" }}>
-              &#10003;
-            </div>
-            <h3>Scholarship</h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida
-              sit ut nisl.
+              Job placement assistance, internships, career counseling, and
+              networking opportunities to help students transition into the
+              workforce.
             </p>
           </div>
         </div>

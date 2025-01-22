@@ -745,14 +745,21 @@ p {
     height: 40px;
   }
 
-  nav ul {
+  .navlink {
+    font-size: 16px;
+  }
+
+  .navbuttons {
     display: none;
   }
 
-  .navicon {
-    display: block;
-    font-size: 40px;
-    align-self: center;
+  .navbar {
+    padding: 30px 40px;
+    align-items: center;
+  }
+
+  nav h6 {
+    font-size: 20px;
   }
 }
 
@@ -771,6 +778,9 @@ p {
   z-index: 9999;
 }
 
+.popular h1 {
+  text-align: center;
+}
 .popup-content {
   background: #fff;
   padding: 20px;
@@ -836,64 +846,60 @@ p {
 /////////////////////////////// */
 
 .about {
-  background-color: #fce9e9; /* Light pink background */
-  padding: 50px;
+  padding: 30px 90px;
   font-family: "Arial", sans-serif;
   text-align: center;
 }
 
 .about-header {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .about-header h1 {
-  font-size: 2.2rem;
+  font-size: 2.5rem;
   font-weight: bold;
-  color: #222222;
+  color: #15343c;
 }
 
 .about-header p {
-  font-size: 1rem;
-  color: #555555;
-  margin-top: 10px;
+  font-size: 18px;
+  margin-top: 15px;
 }
 
 .about-cards {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 25px;
 }
 
 .about-card {
   background-color: white;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  width: 300px;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.1);
+  width: 320px;
   text-align: left;
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
 .about-card:hover {
   transform: translateY(-10px);
-  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-}
-
-.about-icon img {
-  width: 50px;
-  height: 50px;
-  margin-bottom: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
 }
 
 .about-card h3 {
-  font-size: 1.2rem;
-  color: #d95c5c;
-  margin-bottom: 10px;
+  font-size: 1.4rem;
+  color: #df9203;
+  margin-bottom: 15px;
 }
 
 .about-card p {
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #555555;
-  line-height: 1.5;
+  line-height: 1.6;
+}
+
+.about-icon {
+  font-size: 30px;
 }

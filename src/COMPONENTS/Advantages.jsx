@@ -6,7 +6,7 @@ const Advantages = () => {
     <div>
       <div className="advantage">
         <div className="leftadvantages">
-          <h1>Advantages of Online Learning</h1>
+          <h1>Advantages to Learn at Our Universty</h1>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum
             excepturi laborum quisquam! Aliquam soluta culpa nisi facere

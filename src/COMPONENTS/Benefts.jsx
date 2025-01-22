@@ -32,9 +32,9 @@ const Benefts = () => {
           </div>
         </div>
         <div className="beneftimage">
-          <img src="images/corse.jpg" alt="" />
-          <img src="images/corse.jpg" alt="" />
-          <img src="images/corse.jpg" alt="" />
+          <img src="images/provide.avif" alt="" />
+          <img src="images/flex.avif" alt="" />
+          <img src="images/edu.avif" alt="" />
         </div>
       </div>
     </div>
