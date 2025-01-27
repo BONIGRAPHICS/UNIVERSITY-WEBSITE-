@@ -1,7 +1,6 @@
 import React from "react";
 import Instructor from "./COMPONENTS/Instructor";
 import StudentTestimonial from "./COMPONENTS/StudentTestimonial";
-
 import Advantages from "./COMPONENTS/Advantages";
 import Benefts from "./COMPONENTS/Benefts";
 import Popular from "./COMPONENTS/Popular";

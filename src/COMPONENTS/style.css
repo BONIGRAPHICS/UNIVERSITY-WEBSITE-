@@ -224,7 +224,7 @@ p {
   flex-direction: column;
   background: #15343c;
   align-items: center;
-  padding: 20px 90px;
+  padding: 60px 90px;
 }
 
 .popular h1 {
@@ -661,6 +661,9 @@ p {
 /* MEDIA QUARY */
 
 @media (max-width: 810px) {
+  .leftDiv {
+    padding-top: 70px;
+  }
   /* ADVANTAGES AREA */
   .advantage {
     flex-direction: column;
